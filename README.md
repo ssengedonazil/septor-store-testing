@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/septor-store.png" alt="Septor Logo ssengendo nazil" width="200"/>
+  <img src="assets/septor-store.png" alt="Septor Logo ssengendo nazil" width="90"/>
 </p>
 
 ##  Let's Connect
