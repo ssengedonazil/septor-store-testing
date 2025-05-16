@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { pomPinia,setBearerToken,getBearerToken } from "ill-pinia"
+import { pomPinia,setBearerToken,getBearerToken } from "septor-store"
 import { onMounted } from "vue";
 
 setBearerToken({token:'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xOjgwMDAvYXBpL3YyL2F1dGgvMmZhIiwiaWF0IjoxNzQ3Mzc5NTc2LCJleHAiOjE3NDc0MjI3NzYsIm5iZiI6MTc0NzM3OTU3NiwianRpIjoiUWxuQjltb0F2anp6cXRxNSIsInN1YiI6IjIyIiwicHJ2IjoiY2I0ZWU5OTdiYjIyNTEyMTg0M2NiMmU1M2I3NGM2M2FkM2RlN2I0YiJ9.l7vaIIWhpEcAAKW4b5MKG2ET8AQnmcAcAw1Wr1fBBQg'})
