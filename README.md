@@ -258,8 +258,9 @@ const handleSubmit = async () => {
     console.log('Previous post result if any:', oldData)
   })
 
+
   result.value = res
 }
-</script>
+</script> 
 
 ```
