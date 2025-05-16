@@ -1,5 +1,10 @@
-# Vue 3 + TypeScript + Vite
+**
+I'm currently open to job opportunities and actively seeking new roles.
+Feel free to reach out for collaboration, assistance, or even a casual coffee chat.
+You can contact me at +256 751 462 182.
+**
 
+# Vue 3 + TypeScript + Vite
 # septor-store
 
 Description (Full)
@@ -248,7 +253,7 @@ const handleSubmit = async () => {
     reqs: {
       url: '/api/users', // your POST endpoint
       method: 'post',   
-      
+
       data: user.value,
     },
     // mStore: { mUse: false },  can be removed 
