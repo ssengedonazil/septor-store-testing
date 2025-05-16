@@ -247,7 +247,8 @@ const handleSubmit = async () => {
     StateStore: 'createUserResult',
     reqs: {
       url: '/api/users', // your POST endpoint
-      method: 'post',
+      method: 'post',   
+      
       data: user.value,
     },
     // mStore: { mUse: false },  can be removed 
