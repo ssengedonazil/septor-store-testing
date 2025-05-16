@@ -1,8 +1,14 @@
-**
+
+
+## 👋 Let's Connect
+
 I'm currently open to job opportunities and actively seeking new roles.
 Feel free to reach out for collaboration, assistance, or even a casual coffee chat.
-You can contact me at +256 751 462 182.
-**
+You can contact me at,
+📞 Contact: +256 751 462 182
+🔗 LinkedIn: [linkedin.com/in/ssengendo-nazil-81923b1a4](https://www.linkedin.com/in/ssengendo-nazil-81923b1a4/)
+📧 Email: [ssengendonazil@gmail.com]
+---
 
 # Vue 3 + TypeScript + Vite
 # septor-store
