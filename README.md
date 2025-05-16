@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Septor Logo" width="200"/>
+</p>
 
 ##  Let's Connect
 
