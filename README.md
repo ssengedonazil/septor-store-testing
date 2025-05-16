@@ -1,5 +1,6 @@
 <p align="center">
-  <img style='border-radius:50%' src="https://github.com/ssengedonazil/septor-store-testing/blob/POM/assets/septor-store.png" alt="Septor Logo" width="200"/>
+  <img src="https://github.com/ssengedonazil/septor-store-testing/blob/POM/assets/septor-store.png?raw=true" alt="Septor Logo" width="200"/>
+
 </p>
 
 ##  Let's Connect
