@@ -9,7 +9,7 @@ const fetchData = async () => {
       const data = await state.stateGenaratorApi({
         reload: true,// if false ,Once the data is colleted  never call again  And if true   call the data in all stuation
         StateStore: 'users11',
-        reqs: { url: 'v3/patients?Rows=100&status=1&page=1&branchId=1', method: 'get',data:{} }, //data:{sex:male} is not required
+        reqs: { url: 'v3/patients?Rows=100&status=1&page=1&both=1&branchId=1', method: 'get',data:{} }, //data:{sex:male} is not required
         time: 5,// if the state not empty  time taken to recall again the api
       });
       console.log('Fetched data:', data);

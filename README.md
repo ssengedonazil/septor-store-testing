@@ -1,6 +1,5 @@
 
-
-## 👋 Let's Connect
+##  Let's Connect
 
 I'm currently open to job opportunities and actively seeking new roles.
 Feel free to reach out for collaboration, assistance, or even a casual coffee chat.
