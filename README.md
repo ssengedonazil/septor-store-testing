@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://github.com/ssengedonazil/septor-store-testing/blob/POM/assets/septor-store.png?raw=true" alt="Septor Logo" width="200"/>
-
+  <img src="https://github.com/ssengedonazil/septor-store-testing/blob/POM/assets/septor-store.png?raw=true" alt="Septor Logo" width="180" />
 </p>
+
+<h1 align="center">Septor Store</h1>
+
 
 ##  Let's Connect
 
