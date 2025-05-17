@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">Septor Store</h1>
-
-https://www.loom.com/share/1b4ec3445d07477abf2eacbd5aef7531?sid=90cfac04-5227-449b-a15b-79fad284b76d
+§
 ##  Let's Connect
 
 I'm currently open to job opportunities and actively seeking new roles.
