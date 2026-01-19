@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Septor Store</h1>
-§
+
 ##  Let's Connect
 
 I'm currently open to job opportunities and actively seeking new roles.
